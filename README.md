@@ -1,11 +1,18 @@
-### Hi there 👋
+<div align="center">
+
+  
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=Black&height=200&section=footer&text=JaeSeopKim&fontColor=FFFFFF&animation=twinkling&fontAlignY=80&fontAlign=26&desc=ClientProgramer&descAlign=57&descAlignY=89&descSize=15)
+  
+  
+</div>
 
 <!--
+
 **KRKimJaeSeop/KRKimJaeSeop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+  ![ㅇㅇ](https://velog.velcdn.com/images/jajup/post/5fadae1b-b28f-4db9-a907-8e147fc7dbf7/image.jpg)
+- 🔭 I’m currently working   ![ㅇㅇ](https://velog.velcdn.com/images/jajup/post/5fadae1b-b28f-4db9-a907-8e147fc7dbf7/image.jpg)on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
