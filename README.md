@@ -12,12 +12,11 @@
  # 🛠 Skill
  
    <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white">    
-   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=C Sharp&logoColor=white">
-   <img src="https://img.shields.io/badge/Graphics-000000?style=for-the-badge">
+   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=C Sharp&logoColor=white">   
   <img src="https://img.shields.io/badge/Type Script-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
   
   # 📖 Studying
-   
+   <img src="https://img.shields.io/badge/Graphics-000000?style=for-the-badge">
    <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=for-the-badge&logo=UnrealEngine&logoColor=white">
    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white">
   
