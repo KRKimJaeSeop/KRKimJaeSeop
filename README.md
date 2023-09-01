@@ -33,5 +33,7 @@
    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
   
   #
-  
+  ![고양이](https://github.com/KRKimJaeSeop/KRKimJaeSeop/assets/85120352/fd7a21c4-b4a2-4c21-8355-71ff261ce977)
+  이건 제가 키우는 육지거북이 "고양이" 입니다.
  </div>
+
